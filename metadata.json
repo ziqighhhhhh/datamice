@@ -1,0 +1,6 @@
+{
+  "name": "MICEFlow Imputation Lab",
+  "description": "A scientific tool for dataset imputation using MICE to prevent data leakage and ensure experimental integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
